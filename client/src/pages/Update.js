@@ -71,7 +71,7 @@ function Update() {
         {data ? (
           <div>
             {" "}
-            Please email us at: gravityleds@gmail.com to tell use what
+            Please email us at: modcopters@gmail.com to tell use what
             information needs updating.
           </div>
         ) : (

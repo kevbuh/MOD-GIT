@@ -25,8 +25,8 @@ function ProductBig({ id, title, price, image }) {
         <div className="productbig__topImageTitle">
           <span>Introducing: </span>
         </div>
-        <span className="productbig__topImageText">Gravity Origin</span>
-        <span className="productbig__topImageTextTwo">#1 LED Light</span>
+        <span className="productbig__topImageText">Modcopter</span>
+        <span className="productbig__topImageTextTwo">Modcopters</span>
         <span className="productbig__topImageTextTwo">Find out why below:</span>
       </div>
       <Info />
@@ -35,7 +35,7 @@ function ProductBig({ id, title, price, image }) {
           <span className="title"> #1: Easy To Use</span>
           <span className="productbig__reasonsinfo">
             {" "}
-            Our Gravity Origin LED Light uses the most intuitive software out
+            Modcopter uses the most intuitive software out
             there: WLED. Inside the box contains a custom RGB LED Light strip
             that is ready to go straight out the box. Hook it up through your
             phone, and voila! You can now pick the numerous amounts of patterns
@@ -56,32 +56,33 @@ function ProductBig({ id, title, price, image }) {
           <span className="title"> #3: No Controller </span>
           <span className="productbig__reasonsinfo">
             {" "}
-            As mentioned previously, the Gravity Origin LED light strip is
-            contolled through your phone through the WLED software. No need to
+            As mentioned previously, Modcopter is
+            controlled through your phone through the WLED software. No need to
             scramble around your room in order to find an old controller!{" "}
           </span>
         </div>
         <div className="productbig__water">
           <span className="title"> #4: Waterproof </span>
           <span className="productbig__reasonsinfo">
-            {" "}
-            One of the main reasons LED lights die is because of accidental
+            {" "}s
+            {/* One of the main reasons LED lights die is because of accidental
             spillage on the strip. This completely ruins a person's day. We
             wanted to ensure that this is prevented for our customers. We
             carefully picked out the best LED strips for waterproofing in the
-            Gravity Origin LED light.{" "}
+            Gravity Origin LED light.{" "} */}
           </span>
         </div>
         <div className="productbig__color">
           <span className="title"> #5: Tons of patterns </span>
           <span className="productbig__reasonsinfo">
             {" "}
-            Not convinced? This LED light strip is one of the most dense LED
+            s
+            {/* Not convinced? This LED light strip is one of the most dense LED
             light per meter out there. This high number of LED lights allows for
             some truly incredible color brightness and accuracy. In addition, we
             jam packed the Gravity Origin with over 80 unique patterns. This
             combination make the the most flashy and good looking Led light
-            strip out there.{" "}
+            strip out there.{" "} */}
           </span>
         </div>
         <div className="productbig__cart">
@@ -162,8 +163,7 @@ function ProductBig({ id, title, price, image }) {
             RGB LED lights. Don't worry, we address all of these engineering
             solutions in house in order to make your customer experience great.
             Simply download the WLED software onto any modern device with WiFi
-            capabilities, and plug into your nearest wall outlet! The Gravity
-            Origin strip is made with a special PCB material, meant for twisting
+            capabilities, and plug into your nearest wall outlet! The MODCOPTER is made with a special PCB material, meant for twisting
             and curves in the LED strip. Fully RGBW, there are more than 16
             Million color combinations with this strip. Standing for Red, Green,
             Blue, White, this strip is an upgraded version to your typically LED

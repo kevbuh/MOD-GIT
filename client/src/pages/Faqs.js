@@ -26,7 +26,7 @@ function Faqs() {
         </div>
         <div className="faqs__question">
           <span className="faqs__questionTitle">
-            How do I contact Gravity LEDs?
+            How do I contact Modcopters?
           </span>
           <span className="faqs__questionInfo">
             Visit our contact page!

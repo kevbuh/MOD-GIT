@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Server Side For Gravity LED",
+  "description": "Server Side For MODCOPTER",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

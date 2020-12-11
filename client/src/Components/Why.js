@@ -11,7 +11,7 @@ function Why() {
   return (
     <section className="info">
       <div className="info__title">
-        <span>Why Use Gravity LEDs?</span>
+        <span>Why Modcopters?</span>
       </div>
       <div className="info__divMain">
         <div className="info__divLeft">

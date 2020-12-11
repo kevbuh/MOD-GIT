@@ -8,8 +8,7 @@ function Lulu() {
         <span className="lulu__leftTextTwo">Why we</span>
         <span className="lulu__leftTextOne">made this.</span>
         <span className="lulu__leftTextSmall">
-          Here at GravityLEDs, we are commited to making high quality LED
-          strips.
+          Here at Modcopters, we are commited to improving your quadcopters.
         </span>
       </div>
       <div className="lulu__right">

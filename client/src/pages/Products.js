@@ -8,7 +8,7 @@ function Products() {
     <section className="shop">
       <div className="shop__top">
         <div className="shop__title">
-          <span> Gravity LEDs Products</span>
+          <span> Modcopter's Products</span>
         </div>
         <span className="shop__titleTwo"> Click to see more info!</span>
         <span className="shop__arrow">
@@ -47,8 +47,8 @@ function Products() {
             /> */}
             <Product
               id="#8F26HD7"
-              title="Gravity Origin: Custom"
-              price={59.99}
+              title="MODCOPTER"
+              price={=39.99}
               // rating={5}
               image="https://i.pinimg.com/564x/d9/52/01/d95201cbe3f33bfc70ff0166d4e34f8c.jpg"
             />

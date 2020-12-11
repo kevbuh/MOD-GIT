@@ -7,8 +7,7 @@ function ChipInfo() {
       <div className="originalproduct__left">
         <div className="originalproduct__info">
           <span>
-            Running on the WLED software and ESP8266 MicroChip, the Gravity
-            Origin is bound to keep you satisfied. Perfect for any room, explore
+            Running on the WLED software and ESP8266 Microchip, Modcopter is bound to keep you satisfied. Perfect for any room, explore
             the countless patterns and colors it comes with.
           </span>
         </div>

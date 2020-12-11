@@ -7,7 +7,7 @@ function BottomSection() {
     <section className="bottomsection">
       <Link to="/shop">
         <div className="bottomsection__text">
-          <span>Shop For Gravity LEDs</span>
+          <span>View the Modcopters</span>
         </div>
       </Link>
     </section>

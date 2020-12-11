@@ -7,17 +7,17 @@ function Contact() {
   return (
     <section className="contact">
       <div>
-        <span className="contact__title">Gravity LEDs</span>
+        <span className="contact__title">Modcopters</span>
       </div>
       <div className="contact__contactTitle">Contact Us</div>
       <div className="contact__container">
         <div className="contact__info">
           <div>
-            Email Us: <strong>gravityleds@gmail.com</strong>
+            Email Us: <strong>modcopters@gmail.com</strong>
           </div>
           <div className="contact__or">or</div>
           <div>
-            DM us on instagram: <strong>@gravityleds</strong>
+            DM us on instagram: <strong>@modcopter</strong>
           </div>
         </div>
         <div className="contact__bottom">
