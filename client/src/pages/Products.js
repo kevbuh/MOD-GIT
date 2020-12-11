@@ -50,7 +50,7 @@ function Products() {
               title="MODCOPTER"
               price={39.99}
               // rating={5}
-              image="https://i.pinimg.com/564x/d9/52/01/d95201cbe3f33bfc70ff0166d4e34f8c.jpg"
+              image="https://raw.githubusercontent.com/kevinbuhlerr/MOD-GIT/main/client/public/IMG_6448.jpg"
             />
             {/* <Product
               id="#B93MND9"
