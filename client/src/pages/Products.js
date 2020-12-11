@@ -48,7 +48,7 @@ function Products() {
             <Product
               id="#8F26HD7"
               title="MODCOPTER"
-              price={=39.99}
+              price={39.99}
               // rating={5}
               image="https://i.pinimg.com/564x/d9/52/01/d95201cbe3f33bfc70ff0166d4e34f8c.jpg"
             />
