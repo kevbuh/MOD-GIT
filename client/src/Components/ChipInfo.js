@@ -7,8 +7,7 @@ function ChipInfo() {
       <div className="originalproduct__left">
         <div className="originalproduct__info">
           <span>
-            Running on the WLED software and ESP8266 Microchip, Modcopter is bound to keep you satisfied. Perfect for any room, explore
-            the countless patterns and colors it comes with.
+            Running on the WLED software and ESP8266 Microchip, THE MODCOPTER DRONE IS PERFECT FOR AN AFFORDABLE AERIAL EXPERIENCE.
           </span>
         </div>
       </div>
