@@ -7,7 +7,7 @@ function HomeScreen() {
     <section className="homescreen">
       <div className="homescreen__info">
         <div className="homescreen__logo">
-          <h1>GRAVITY LEDs</h1>
+          <h1>GRAVITY LEDSSSS</h1>
           <h2 className="homescreen__logoInfo"> #1 Rated Custom LED Lights</h2>
         </div>
         <div className="homescreen__button">
