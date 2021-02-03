@@ -56,12 +56,8 @@ function CheckoutProduct({ id, title, price, image }) {
                 </button>
               </div>
             </div>
-
             <div>
-              The perfect LED lights for any occasion. Over 100 custom design
-              patterns. Wireless connection to control lights through custom
-              phone software. The best led strip out there. Easy to install.
-              Best in class for ease of use. Uses the WLED software.
+              Redesigned quadcopters, perfect for your racing and exploration needs. 
             </div>
           </div>
         </div>

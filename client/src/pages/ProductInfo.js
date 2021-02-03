@@ -33,24 +33,24 @@ function ProductBig({ id, title, price, image }) {
       <div className="productbig__reasons">
         <div className="productbig__easy">
           <span className="title"> #1: Easy To Use</span>
-          <span className="productbig__reasonsinfo">
+          {/* <span className="productbig__reasonsinfo">
             {" "}
             Modcopter uses the most intuitive software out
             there: WLED. Inside the box contains a custom RGB LED Light strip
             that is ready to go straight out the box. Hook it up through your
             phone, and voila! You can now pick the numerous amounts of patterns
             and colors that we offer.{" "}
-          </span>
+          </span> */}
         </div>
         <div className="productbig__wifi">
           <span className="title"> #2: WiFi Enabled </span>
-          <span className="productbig__reasonsinfo">
+          {/* <span className="productbig__reasonsinfo">
             {" "}
             This LED light is special. We especially took in account ease of use
             when designing this product. One of the major things that make this
             LED light so enjoyable to use is the fact that it is 100% controlled
             through WiFi.{" "}
-          </span>
+          </span> */}
         </div>
         <div className="productbig__controller">
           <span className="title"> #3: No Controller </span>
@@ -100,9 +100,9 @@ function ProductBig({ id, title, price, image }) {
               <strong>{price}</strong>
             </p>
             <div className="productbig__productInfo">
-              The perfect LED lights for any occasion. Over 100 custom design
-              patterns. Wireless connection to control lights through custom
-              phone software. The best LED strip out there. Easy to install.
+              The perfect redesigned quadcopters. Over 100 custom flight
+              patterns. Wireless connection to control through custom
+              phone software. Easy to install.
               Best in class for ease of use. Uses the WLED software.
             </div>
             {/* <div className="product__rating">
@@ -123,7 +123,7 @@ function ProductBig({ id, title, price, image }) {
         <div className="tech__title">Technical Info</div>
         <div>
           <ul className="tech__list">
-            <span>Bright</span>
+            {/* <span>Bright</span>
             <span>5 Volts</span>
             <span>Long-Lasting</span>
             <span>300 LEDs per strip</span>
@@ -142,14 +142,14 @@ function ProductBig({ id, title, price, image }) {
             </span>
             <span>
               Self Adhesive tape on the back makes it easy to install.
-            </span>
+            </span> */}
           </ul>
         </div>
       </div>
       <div>
         <div className="tech__description">Description</div>
         <div className="tech__bigInfoDiv">
-          <span className="tech__bigInfo">
+          {/* <span className="tech__bigInfo">
             These LED strips are special. With waterproof capabilities, these
             can be used for any situation. Feel free to set them up outside, or
             inside of your own room. Get creative with it! Uses high-quality LED
@@ -172,8 +172,8 @@ function ProductBig({ id, title, price, image }) {
             ideal for an easy stick on to most surfaces. One tip, make sure you
             know exactly where you want the strip to go. If you don't, then the
             LED strip's adhesive tape will be compromised and warranty will be
-            voided.{" "}
-          </span>
+            voided.{" "} */}
+          {/* </span> */}
         </div>
       </div>
     </div>
