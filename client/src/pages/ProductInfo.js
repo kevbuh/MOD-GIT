@@ -54,17 +54,17 @@ function ProductBig({ id, title, price, image }) {
         </div>
         <div className="productbig__controller">
           <span className="title"> #3: No Controller </span>
-          <span className="productbig__reasonsinfo">
+          {/* <span className="productbig__reasonsinfo">
             {" "}
             As mentioned previously, Modcopter is
             controlled through your phone through the WLED software. No need to
             scramble around your room in order to find an old controller!{" "}
-          </span>
+          </span> */}
         </div>
         <div className="productbig__water">
           <span className="title"> #4: Waterproof </span>
           <span className="productbig__reasonsinfo">
-            {" "}s
+            {" "}
             {/* One of the main reasons LED lights die is because of accidental
             spillage on the strip. This completely ruins a person's day. We
             wanted to ensure that this is prevented for our customers. We
@@ -76,7 +76,7 @@ function ProductBig({ id, title, price, image }) {
           <span className="title"> #5: Tons of patterns </span>
           <span className="productbig__reasonsinfo">
             {" "}
-            s
+            
             {/* Not convinced? This LED light strip is one of the most dense LED
             light per meter out there. This high number of LED lights allows for
             some truly incredible color brightness and accuracy. In addition, we
